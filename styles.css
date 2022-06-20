@@ -1,0 +1,42 @@
+
+
+body {
+    background-image: url(https://i.pinimg.com/originals/6f/2d/34/6f2d34fe6c8746c56c14fbc55308ef99.jpg); 
+    background-color: #179915; 
+    font-size: 20px;
+}
+
+   h1, h2, p, ul, li {
+	font-family: sans-serif;
+   }
+   ul.header li {
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+   }
+   ul.header {
+	background-color: #111;
+	padding: 0;
+   }
+   ul.header li a {
+	color: #FFF;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 20px;
+	display: inline-block;
+   }
+   .content {
+	background-color: #FFF;
+	padding: 20px;
+   }
+   .content h2 {
+	padding: 0;
+	margin: 0;
+   }
+   .content li {
+	margin-bottom: 10px;
+   }
+
+   .active {
+      background-color: #0099FF;
+     }
